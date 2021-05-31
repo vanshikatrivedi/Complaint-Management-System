@@ -33,13 +33,13 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="http://localhost/Complaint Management System/users/">User Login</a>
+                        <a href="http://localhost/Complaint%20Management%20System/users/">User Login</a>
                     </li>
                     <li>
-                        <a href="http://localhost/Complaint Management System/users/registration.php">User Registration</a>
+                        <a href="http://localhost/Complaint%20Management%20System/users/registration.php">User Registration</a>
                     </li>
                     <li>
-                        <a href="http://localhost/Complaint Management System/admin/">admin</a>
+                        <a href="http://localhost/Complaint%20Management%20System/admin/">admin</a>
                     </li>
                 </ul>
             </div>
@@ -61,15 +61,16 @@
         <div class="carousel-inner">
 
             <div class="item active">
-                <!-- Set the second background image using inline CSS below. -->
-                <div class="fill" style="background-image:url('http://localhost/cms/img/c2.jpg');"></div>
+
+                <div class="fill" style="background-image: url('http://localhost/Complaint%20Management%20System/img/c2.jpg');">
+                </div>
                 <div class="carousel-caption">
 
                 </div>
             </div>
             <div class="item">
-                <!-- Set the third background image using inline CSS below. -->
-                <div class="fill" style="background-image:url('http://localhost/cms/img/c10.jpg');"></div>
+
+                <div class="fill" style="background-image:url('http://localhost/Complaint%20Management%20System/img/c10.jpg');"></div>
                 <div class="carousel-caption">
 
                 </div>
@@ -91,12 +92,19 @@
 
         <div class="row">
             <div class="col-lg-12">
-                <div class="com"><h1><b>WELCOME TO COMPLAINT MANAGEMENT SYSTEM</b></h1>
-                <p><h2>The Easiest Way To Complain Online </h2><br> <b><i>Tired off getting ripped off? Fight back and file a customer complaint now.Sign Up Today And You Can Leave Complaints on various topics/company.</b> </i></p></div>
+                <div class="com">
+                    <h1><b>WELCOME TO COMPLAINT MANAGEMENT SYSTEM</b></h1>
+                    <p>
+                    <h2>The Easiest Way To Complain Online </h2><br> <b><i>Tired off getting ripped off? Fight back and file a customer complaint now.Sign Up Today And You Can Leave Complaints on various topics/company.</b> </i></p>
+                </div>
 
             </div>
         </div>
-<style>.com{text-align: center;} </style>
+        <style>
+            .com {
+                text-align: center;
+            }
+        </style>
         <hr>
 
         <!-- Footer -->
@@ -108,7 +116,12 @@
             </div>
             <!-- /.row -->
         </footer>
-        <style> .col-lg-12{text-align: center; border: 1px solid black;}</style>
+        <style>
+            .col-lg-12 {
+                text-align: center;
+                border: 1px solid black;
+            }
+        </style>
 
     </div>
     <!-- /.container -->
@@ -121,9 +134,9 @@
 
     <!-- Script to Activate the Carousel -->
     <script>
-    $('.carousel').carousel({
-        interval: 5000 //changes the speed
-    })
+        $('.carousel').carousel({
+            interval: 5000 //changes the speed
+        })
     </script>
 
 </body>
