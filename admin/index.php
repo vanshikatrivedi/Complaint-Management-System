@@ -59,7 +59,7 @@ exit();
 				
 					<ul class="nav pull-right">
 
-						<li><a href="http://localhost/Complaint Management System/">
+						<li><a href="http://localhost/Complaint%20Management%20System/">
 						Back to Portal
 						
 						</a></li>

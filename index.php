@@ -39,7 +39,7 @@
                         <a href="http://localhost/Complaint%20Management%20System/users/registration.php">User Registration</a>
                     </li>
                     <li>
-                        <a href="http://localhost/Complaint%20Management%20System/admin/">admin</a>
+                        <a href="http://localhost/Complaint%20Management%20System/admin/">Admin</a>
                     </li>
                 </ul>
             </div>
