@@ -70,14 +70,14 @@
             </div>
             <div class="item">
 
-                <div class="fill" style="background-image:url('http://localhost/Complaint%20Management%20System/img/2.jpg');"></div>
+                <div class="fill" style="background-image:url('http://localhost/Complaint%20Management%20System/img/2.png');"></div>
                 <div class="carousel-caption">
 
                 </div>
             </div>
             <div class="item">
 
-                <div class="fill" style="background-image:url('http://localhost/Complaint%20Management%20System/img/1.jpg');"></div>
+                <div class="fill" style="background-image:url('http://localhost/Complaint%20Management%20System/img/1.png');"></div>
                 <div class="carousel-caption">
 
                 </div>
